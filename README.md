@@ -13,13 +13,16 @@
 
 ### The main features of this website are :
 
+<ul>
+<li> Responsive header / navbar with search form / shopping cart toggle navbar menu and login form effect using vanilla Javascript. </li>
+<li> Responsive home section using CSS flexbox. </li>
+<li> Responsive featured card section using CSS grid. </li>
+<li> Responsive product card section with Touch Slider using CSS swiper.js </li>
+<li> Responsive category card section using CSS grid. </li>
+<li> Responsive testimonial section with touch slider using CSS swiper.js </li>
+<li> Responsive blogs card section using CSS grid. </li>
+<li> Responsive footer section using CSS grid. </li>
+</ul>
 
-##### Responsive header / navbar with search form / shopping cart toggle navbar menu and login form effect using vanilla Javascript.
-##### Responsive home section using CSS flexbox.
-##### Responsive featured card section using CSS grid.
-##### Responsive product card section with Touch Slider using CSS swiper.js
-##### Responsive category card section using CSS grid.
-##### Responsive testimonial section with touch slider using CSS swiper.js
-##### Responsive blogs card section using CSS grid.
-##### Responsive footer section using CSS grid.
+##will upload source code tomorrow 2 june 2022
 
