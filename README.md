@@ -24,5 +24,5 @@
 <li> Responsive footer section using CSS grid. </li>
 </ul>
 
-##will upload source code tomorrow 2 june 2022
+## will upload source code tomorrow 2 june 2022
 
